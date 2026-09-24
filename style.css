@@ -1,5 +1,5 @@
 .fade {
-    color: #A9B8E8;
+    color: #B99E8E;
     opacity: 0.5;
 }
 
@@ -36,7 +36,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #A9B8E8;
+    background-color: #9A6BB4;
     border-radius: 999px;
     padding: 0 8px;
     gap: 4px;
@@ -105,12 +105,12 @@ body {
 
 /* TODAY */
 .days .today {
-    background-color: #A9B8E8;
+    background-color: #9A6BB4;
     color: #FFFFFF;
     border-radius: 50%;
     font-weight: bold;
 }
 
 .days .fade {
-    color: #b99e8e;
+    color: #B99E8E;
 }
